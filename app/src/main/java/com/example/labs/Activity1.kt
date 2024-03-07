@@ -3,9 +3,9 @@ package com.example.labs
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-class AT2 : AppCompatActivity() {
+class Activity1 : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_at2)
+        setContentView(R.layout.activity_1)
     }
 }
