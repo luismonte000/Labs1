@@ -11,23 +11,23 @@
         android:id="@+id/textViewPageId"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="16dp"
-        android:text="@string/activity2_title"
-        android:textSize="24sp" />
+        android:text="AT2"
+        android:textSize="24sp"
+        android:layout_marginBottom="16dp"/>
 
     <TextView
         android:id="@+id/textViewStudentData"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/textViewPageId"
-        android:layout_marginTop="25dp"
-        android:text="@string/student_data" />
+        android:layout_marginTop="119dp"
+        android:text="Nome: LuisMonte\nMatrícula: 28937" />
 
     <Button
         android:id="@+id/buttonGoToAT1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/textViewStudentData"
-        android:layout_marginTop="41dp"
-        android:text="@string/button_text2" />
+        android:layout_marginTop="-126dp"
+        android:text="Go to AT1" />
 </RelativeLayout>

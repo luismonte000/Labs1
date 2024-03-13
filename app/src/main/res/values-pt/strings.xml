@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Labs</string>
+    <string name="activity_title">Atividade 1</string>
+    <string name="button_text">Ir para AT2</string>
+    <string name="activity2_title">Atividade 2</string>
+    <string name="student_data">Nome: Luis Monte\nMatrícula: 28937</string>
+    <string name="button_text2">Fechar</string>
+</resources>

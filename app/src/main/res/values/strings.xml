@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Labs</string>
+    <string name="activity_title">Activity 1</string>
+    <string name="button_text">Go to AT2</string>
+    <string name="activity2_title">Activity 2</string>
+    <string name="student_data">Name: Luis Monte\nEnrollment: 28937</string>
+    <string name="button_text2">Close</string>
 </resources>
